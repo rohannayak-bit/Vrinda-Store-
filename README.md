@@ -1,13 +1,13 @@
 # Vrinda-Store
 Vrinda Store Sales Analysis Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on analyzing sales performance of **Vrinda Store** using Excel.  
 An interactive dashboard was created to understand customer behavior, sales trends, regional performance, and channel contribution, along with actionable business insights and recommendations.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Analyze monthly sales and order trends
 - Identify peak sales periods
 - Understand customer demographics (age & gender)
@@ -17,7 +17,7 @@ An interactive dashboard was created to understand customer behavior, sales tren
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - Microsoft Excel
   - Pivot Tables
   - Pivot Charts
@@ -27,4 +27,31 @@ An interactive dashboard was created to understand customer behavior, sales tren
 
 ---
 
-## 📂 Project Structure
+## Project Structure
+  - Vrinda Store(Raw_Data).xlsx
+  - Vrinda Store Analysis.xlsx
+  - README.md
+
+## Dashboard Components
+- **Sales vs Orders (Monthly Trend)**
+- **Men vs Women Sales Contribution**
+- **Order Status Breakdown**
+- **Top 5 States by Sales**
+- **Orders by Age Group & Gender**
+- **Sales by Channel**
+- **Interactive Slicers** (Month, Gender, Channel, Order Status)
+  
+## Key Learnings
+- Dashboard storytelling using insights panels
+- Using slicers for interactive analysis
+- Translating data visuals into business decisions
+- Structuring analysis for real-world business use
+  
+##  Future Enhancements
+- Build the same dashboard in Power BI
+- Add predictive sales analysis
+- Automate data refresh
+  
+##  Author
+**Rohan Nayak**  
+B.Tech Student | Aspiring Data Analyst  
